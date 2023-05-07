@@ -4,10 +4,10 @@
 my-server/node_modules
 react-app/node_modules
 /.pnp
-react-app/.pnp.js
+.pnp.js
 
 # testing
-react-app/coverage
+coverage
 
 # production
 /build
